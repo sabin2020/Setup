@@ -5,6 +5,5 @@ if [ "$x" -gt "$y" ]
 then
 xbacklight -dec 10
 else
-notify-send "Lowest Brightness" 
+notify-send "Lowest Brightness"
 fi
-
